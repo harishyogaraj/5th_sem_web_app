@@ -1,1 +1,1 @@
-# 5th_sem_web_app
+# 5th-sem

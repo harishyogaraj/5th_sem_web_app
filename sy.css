@@ -1,0 +1,43 @@
+body{
+  background-color: skyblue;
+
+}
+button{
+  width: 400px;
+  height: 30px;
+  margin-left: 450px;
+  margin-bottom: 25px;
+  margin-right: 100px;
+  background-color: #808080;
+  font-size: 25px;
+  text-decoration: none;
+  color: #191970;
+
+
+}
+
+.University{
+  position: relative;
+  bottom: 150px;
+  font-size: 40px;
+  font-weight: bolder;
+
+}
+a.Computer{
+  width: 100px;
+  height: 500px;
+}
+.SEM{
+  position: relative;
+  bottom: 100px;
+  font-style: italic;
+}
+
+
+h1{
+  text-align: center;
+}
+
+button:hover{
+  background-color: #d3d3d3;
+}
